@@ -6,6 +6,12 @@ The benefit of this approach is that whenever you run `brew update`, you’ll be
 
 I’m current working to add more of my apps and utilities here to make updating more straightforward; in the meantime, you can always [download apps from my website](https://smittytone.net).
 
+## Available Casks ##
+
+* [Ascii](https://www.smittytone.net/ascii/index.html)
+* [pdfmaker](https://www.smittytone.net/pdfmaker/index.html)
+* [The Valley](https://www.smittytone.net/valley/index.html)
+
 ## Installation ##
 
 Don’t have Brew? Follow [these instructions](https://brew.sh).
