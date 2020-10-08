@@ -24,7 +24,19 @@ brew cask install pdfmaker
 
 ### Troubleshooting ###
 
-If you have already installed *pdfnaker*, say, you will probably see the error `It seems there is already a Binary at '/usr/local/bin/pdfmaker'.` In this case, just remove the existing version using `sudo rm /usr/local/bin/pdfmaker` and then re-install the Brew version to get the benefits of update tracking.
+If you have already installed *pdfnaker*, say, you will probably see the error:
+
+```
+It seems there is already a Binary at '/usr/local/bin/pdfmaker'.
+```
+
+In this case, just remove the existing version using
+
+```
+sudo rm /usr/local/bin/pdfmaker
+```
+
+and then re-install the Brew version, as above, to get the benefits of update tracking.
 
 ## Updating ##
 
