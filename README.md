@@ -40,6 +40,14 @@ and then re-install the Brew version, as above, to get the benefits of update tr
 
 ## Updating ##
 
-Brew users do this as a matter of course: periodically run `brew update`.
+Brew users do this as a matter of course: periodically run
 
-If Brew indicates there’s a new version of, say, *pdfmaker*, then run `brew cask upgrade pdfmaker`.
+```
+brew update
+```
+
+If Brew indicates there’s a new version of, say, *pdfmaker*, then run
+
+```
+brew cask upgrade pdfmaker
+```
