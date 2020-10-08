@@ -8,5 +8,8 @@ cask "ascii" do
   homepage "https://www.smittytone.net/ascii/index.html"
 
   pkg "ASCII.pkg"
-  uninstall pkgutil: "com.bps.ASCII"
+
+  uninstall pkgutil: [
+    "com.bps.ASCII.pkg"
+  ]
 end
