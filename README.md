@@ -8,10 +8,11 @@ I’m current working to add more of my apps and utilities here to make updating
 
 ## Available Casks ##
 
-* [Ascii](https://www.smittytone.net/ascii/index.html)
-* [MNU](https://www.smittytone.net/mnu/index.html)
-* [pdfmaker](https://www.smittytone.net/pdfmaker/index.html)
-* [The Valley](https://www.smittytone.net/valley/index.html)
+* [Ascii](https://smittytone.net/ascii/index.html)
+* [MNU](https://smittytone.net/mnu/index.html)
+* [pdfmaker](https://smittytone.net/pdfmaker/index.html)
+* [Squinter](https://smittytonne.net/squinter/index.html)
+* [The Valley](https://smittytone.net/valley/index.html)
 
 ## Installation ##
 
