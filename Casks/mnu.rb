@@ -7,5 +7,5 @@ cask "mnu" do
   desc "A menu bar utility for macOS"
   homepage "https://www.smittytone.net/mnu/index.html"
 
-  app "mnu.mnu"
+  app "mnu.app"
 end
