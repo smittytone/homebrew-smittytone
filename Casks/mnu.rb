@@ -7,9 +7,5 @@ cask "mnu" do
   desc "A menu bar utility for macOS"
   homepage "https://www.smittytone.net/mnu/index.html"
 
-  pkg "mnu.pkg"
-
-  uninstall pkgutil: [
-    "com.bps.MNU.pkg"
-  ]
+  app "mnu.mnu"
 end
