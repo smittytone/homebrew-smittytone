@@ -1,6 +1,6 @@
 cask "mnu" do
   version "1.4.2"
-  sha256 "52167768c6f89c5081e5f07a7468b48c0d4aa6d26de03b938b367c08626a3dce"
+  sha256 "607cb4fe5ce4f13f6411f45403c96c70f1855b71122d94da4e4d8a4cbb9b8024"
 
   url "https://www.smittytone.net/files/mnu/mnu_1_4_2.dmg"
   name "MNU"
