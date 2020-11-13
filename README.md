@@ -8,7 +8,7 @@ I’m current working to add more of my apps and utilities here to make updating
 
 ## Available Casks ##
 
-* [Ascii](https://smittytone.net/ascii/index.html)
+* [ASCII](https://smittytone.net/ascii/index.html)
 * [MNU](https://smittytone.net/mnu/index.html)
 * [pdfmaker](https://smittytone.net/pdfmaker/index.html)
 * [Squinter](https://smittytonne.net/squinter/index.html)
@@ -38,7 +38,7 @@ If you have already installed *pdfnaker*, say, you will probably see the error:
 It seems there is already a Binary at '/usr/local/bin/pdfmaker'.
 ```
 
-In this case, just remove the existing version using
+In this case, just remove the existing version using:
 
 ```
 sudo rm /usr/local/bin/pdfmaker
@@ -48,13 +48,13 @@ and then re-install the Brew version, as above, to get the benefits of update tr
 
 ## Updating ##
 
-Brew users do this as a matter of course: periodically run
+Brew users do this as a matter of course — periodically run:
 
 ```
 brew update
 ```
 
-If Brew indicates there’s a new version of, say, *pdfmaker*, then run
+If Brew indicates there’s a new version of, say, *pdfmaker*, then run:
 
 ```
 brew cask upgrade pdfmaker
