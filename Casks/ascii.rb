@@ -1,10 +1,10 @@
 cask "ascii" do
-  version "1.2.1"
-  sha256 "89be94a18c507f2cf7f8e6e627d8f2ed16dff6b236437585aa2af04ef4cc2698"
+  version "1.3.0"
+  sha256 "7d82bda1871c0b01e9520585fa3c179e0356eeb819256c1439aa540839a7fab5"
 
-  url "https://www.smittytone.net/files/ascii/ascii_1_2_1.dmg"
+  url "https://www.smittytone.net/files/ascii/ascii_1_3_0.dmg"
   name "Ascii"
-  desc "A tool to generate glyphs for 8x8 LED matrix displays"
+  desc "A tool to help you create glyphs and icons for monochrome and bi-colour 8x8 LED matrix displays"
   homepage "https://www.smittytone.net/ascii/index.html"
 
   pkg "ASCII.pkg"
