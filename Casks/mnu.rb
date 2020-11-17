@@ -1,15 +1,11 @@
 cask "mnu" do
   version "1.4.3"
-  sha256 "aa9de8559dff765c1a7e51bf478d623a2b74145db7bb05be5f944ba336b1aa59"
+  sha256 "db057dd7a9847c61481dfe1fb071c8bb4b74e5e220dce4c490f9343b3434ca7f"
 
-  url "https://smittytone.net/files/mnu/mnu_1_4_3.dmg"
+  url "https://smittytone.net/files/mnu/mnu_1_4_3h.dmg"
   name "MNU"
   desc "A menu bar utility for macOS"
   homepage "https://www.smittytone.net/mnu/index.html"
 
-  pkg "MNU.pkg"
-
-  uninstall pkgutil: [
-    "com.bps.MNU.pkg"
-  ]
+  app "MNU.app"
 end
