@@ -7,7 +7,7 @@ cask "ascii" do
   desc "A tool to help you create glyphs and icons for monochrome and bi-colour 8x8 LED matrix displays"
   homepage "https://www.smittytone.net/ascii/index.html"
 
-  pkg "ascii.pkg"
+  pkg "ASCII.pkg"
 
   uninstall pkgutil: [
     "com.bps.ASCII.pkg"
