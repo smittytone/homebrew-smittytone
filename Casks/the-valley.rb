@@ -1,8 +1,8 @@
 cask "the-valley" do
-  version "1.0.8"
-  sha256 "a13adf4597d529fa758030d9b57f0ddb7831a108b3ab596b2e25a8e9f17005c1"
+  version "1.0.9"
+  sha256 "7776640a6f2f4ce4f0d658ec05e000ccc88157aafd36616c76a358724f429c5c"
 
-  url "https://smittytone.net/files/valley/the_valley_1_0_8.dmg"
+  url "https://smittytone.net/files/valley/the_valley_1_0_9.dmg"
   name "The Valley"
   desc "A macOS port of a 1982 real-time RPG"
   homepage "https://www.smittytone.net/valley/index.html"
