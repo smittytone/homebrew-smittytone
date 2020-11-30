@@ -1,8 +1,8 @@
 cask "mnu" do
-  version "1.4.3"
-  sha256 "db057dd7a9847c61481dfe1fb071c8bb4b74e5e220dce4c490f9343b3434ca7f"
+  version "1.4.4"
+  sha256 "98a5ce915bffd6624751f14561eb5f4dde71e196b354ed98e3d30707e46028f5"
 
-  url "https://smittytone.net/files/mnu/mnu_1_4_3h.dmg"
+  url "https://smittytone.net/files/mnu/mnu_1_4_4h.dmg"
   name "MNU"
   desc "A menu bar utility for macOS"
   homepage "https://www.smittytone.net/mnu/index.html"
