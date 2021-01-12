@@ -5,7 +5,7 @@ cask "utitool" do
   url "https://smittytone.net/files/utitool/utitool_1_0_0.dmg"
   name "utitool"
   desc "A command-line tool to batch-process image files"
-  homepage "https://smittytone.net/index.html"
+  homepage "https://smittytone.net/utitool/index.html"
 
   pkg "utitool-1.0.0.pkg"
 

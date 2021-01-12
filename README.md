@@ -14,7 +14,7 @@ I’m current working to add more of my apps and utilities here to make updating
 * [pdfmaker](https://smittytone.net/pdfmaker/index.html)
 * [Squinter](https://smittytonne.net/squinter/index.html)
 * [The Valley](https://smittytone.net/valley/index.html)
-* [utitool](https://smittytone.net/")
+* [utitool](https://smittytone.net/utitool/index.html)
 
 ## Installation ##
 
