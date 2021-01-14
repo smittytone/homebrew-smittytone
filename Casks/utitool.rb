@@ -4,7 +4,7 @@ cask "utitool" do
 
   url "https://smittytone.net/files/utitool/utitool_1_0_0.dmg"
   name "utitool"
-  desc "A command-line tool to batch-process image files"
+  desc "A macOS command line tool you can use to reveal a file's Uniform Type Identifier (UTI)"
   homepage "https://smittytone.net/utitool/index.html"
 
   pkg "utitool-1.0.0.pkg"
