@@ -29,7 +29,7 @@ brew tap smittytone/homebrew-smittytone
 Install a Cask:
 
 ```shell
-brew cask install pdfmaker
+brew install --cask pdfmaker
 ```
 
 ### Troubleshooting ###
