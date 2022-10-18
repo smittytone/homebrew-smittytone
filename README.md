@@ -9,6 +9,7 @@ I’m current working to add more of my apps and utilities here to make updating
 ## Available Casks ##
 
 * [ASCII](https://smittytone.net/ascii/index.html)
+* [cli2c](https://smittytone.net/cli2c/index.html)
 * [imageprep](https://smittytone.net/imageprep/index.html)
 * [MNU](https://smittytone.net/mnu/index.html)
 * [pdfmaker](https://smittytone.net/pdfmaker/index.html)
