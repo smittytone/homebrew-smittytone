@@ -1,13 +1,13 @@
 cask "imageprep" do
-  version "6.3.4"
-  sha256 "2742d5413171291c5d7cf8f149afd74b726406cd37918494fbcd5822e269c65d"
+  version "7.0.0"
+  sha256 "dba4eb66156a01ba18ff3bc21c85ab5b7e3c4a184a4479517339197f7a57df9f"
 
-  url "https://smittytone.net/files/imageprep/imageprep_6_3_4.dmg"
+  url "https://smittytone.net/files/imageprep/imageprep_7_0_0.dmg"
   name "imageprep"
   desc "A command-line tool to batch-process image files"
   homepage "https://smittytone.net/imageprep/index.html"
 
-  pkg "imageprep-6.3.4.pkg"
+  pkg "imageprep-7.0.0.pkg"
 
   manpage "imageprep.1"
 
