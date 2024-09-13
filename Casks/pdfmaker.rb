@@ -1,13 +1,13 @@
 cask "pdfmaker" do
-  version "2.3.6"
-  sha256 "abf0e9562a34a933e373b0d7045a039884f62a177dd9b0d9aa98241d7b9c8271"
+  version "2.3.7"
+  sha256 "c5d5a257f55d2529d93bb114d16612585ff4c9ee240c095e82a04a244a47598a"
 
-  url "https://smittytone.net/files/pdfmaker/pdfmaker_2_3_6.dmg"
+  url "https://smittytone.net/files/pdfmaker/pdfmaker_2_3_7.dmg"
   name "pdfmaker"
   desc "A command-line tool to build PDFs from JPEG images"
   homepage "https://www.smittytone.net/pdfmaker/index.html"
 
-  pkg "pdfmaker-2.3.6.pkg"
+  pkg "pdfmaker-2.3.7.pkg"
 
   manpage "pdfmaker.1"
 
