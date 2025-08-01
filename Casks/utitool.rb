@@ -1,13 +1,13 @@
 cask "utitool" do
-  version "1.0.4"
-  sha256 "eee74030d0dab7a3a87c5773b52d494e409451b7650e4ad564874e8960e707a6"
+  version "1.1.0"
+  sha256 "bc63c25ac1042c05c530a008c222ac0afd14be74c21e2fc8bc2c1c01c21c5c99"
 
-  url "https://smittytone.net/files/utitool/utitool_1_0_4.dmg"
+  url "https://smittytone.net/files/utitool/utitool_1_1_0.dmg"
   name "utitool"
   desc "A macOS command line tool you can use to reveal a file's Uniform Type Identifier (UTI)"
   homepage "https://smittytone.net/utitool/index.html"
 
-  pkg "utitool-1.0.4.pkg"
+  pkg "utitool-1.1.0.pkg"
 
   uninstall pkgutil: [
     "com.bps.utitool.pkg"
