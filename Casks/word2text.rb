@@ -1,13 +1,13 @@
 cask "word2text" do
-  version "0.1.1"
-  sha256 "844f4fc8116000037e7cdd752ca8ddabe53809a6babf3929d7951947b8bf92f1"
+  version "0.1.2"
+  sha256 "32627e0e356f1a746dd15c0829e67916fdb52a981e31d2552ec2408c5852fcaa"
 
-  url "https://smittytone.net/files/word2text/word2text_0_1_1.dmg"
+  url "https://smittytone.net/files/word2text/word2text_0_1_2.dmg"
   name "word2text"
   desc "A command-line tool to build convert Psion Word files to plain text or Markdown"
-  homepage "https://www.smittytone.net/"
+  homepage "https://www.smittytone.net/word2text/"
 
-  pkg "word2text-0.1.1.pkg"
+  pkg "word2text-0.1.2.pkg"
 
   manpage "word2text.1"
 
