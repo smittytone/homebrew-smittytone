@@ -1,6 +1,6 @@
 cask "word2text" do
   version "0.1.5"
-  sha256 "513b18b3b9084bc670b96e281c073eef59c4495bdb04d8ed80657b66380c16fc"
+  sha256 "090f362b57bbe96741fc5938e9ffc03af441b63274ad75362f512ea583f128d8"
 
   url "https://www.smittytone.net/files/word2text/word2text_0_1_5.dmg"
   name "word2text"
