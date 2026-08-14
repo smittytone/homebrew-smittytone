@@ -4,7 +4,7 @@ cask "dlist" do
 
   url "https://www.smittytone.net/files/dlist/dlist_0_3_1.dmg"
   name "dlist"
-  desc "A macOS command line tool you can use to get connected devices’ system paths, e.g., \u{001B}[4m/dev/cu.usbmodem101\u{001B}[0m, and pipe them into other tools and apps, e.g., minicom -D $(dlist)"
+  desc "A macOS command line tool you can use to get connected devices’ system paths, e.g., \u{001B}[1m/dev/cu.usbmodem101\u{001B}[0m, and pipe them into other tools and apps, e.g., \u{001B}[1mminicom -D $(dlist)\u{001B}[0m"
   homepage "https://smittytone.net/index.html"
 
   pkg "dlist-0.3.1.pkg"
